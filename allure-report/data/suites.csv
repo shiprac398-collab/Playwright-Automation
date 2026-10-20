@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15701","@smoketcregister","chromium","2026-10-20","passed","2026-10-20","tc common test","tcCommon.spec.js","",""
+"","32897","login@sanity","chromium","2026-10-20","broken","2026-10-20","tc common test","tcCommon.spec.js","",""
