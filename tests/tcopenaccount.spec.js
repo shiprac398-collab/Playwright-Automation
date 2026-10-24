@@ -5,5 +5,4 @@ console.log('open account test case')
 
 console.log('new code added')
 }
-
 )
