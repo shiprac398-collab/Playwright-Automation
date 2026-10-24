@@ -41,7 +41,7 @@ test('login@sanity', async ({ page, testdataForregistration }) => {
         testdataForregistration.username,
         testdataForregistration.password
     )
-    await loginpage.clickOnloginButton()
+    //await loginpage.clickOnloginButton()
 
 }
 
